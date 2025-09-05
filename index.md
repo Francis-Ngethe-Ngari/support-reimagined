@@ -1,5 +1,3 @@
-# 🚀 Support Reimagined
-
 Welcome to **Support Reimagined**, the personal blog of *Ngari Francis Ngethe* — Systems Administrator & IT Support Specialist on a mission to transform how support is delivered, documented, and understood.
 
 This isn’t just another tech journal. It’s a blueprint for the future of IT Support:  
