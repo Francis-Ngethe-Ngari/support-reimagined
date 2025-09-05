@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Monitoring Reimagined — From Alerts to Action with Prometheus, Datadog & ChatOps"
+date: 2025-09-05
+---
+
 # 📊 Monitoring Reimagined — From Alerts to Action with Prometheus, Datadog & ChatOps
 
 Monitoring is the heartbeat of IT Support — but too often, it’s noisy, reactive, and siloed. In this post, I explore how I’ve used **Prometheus**, **Datadog**, and **ChatOps principles** to turn alerts into intelligent, actionable conversations.

@@ -26,12 +26,10 @@ Whether you're a recruiter, engineer, or fellow sysadmin — I hope you find som
 ---
 
 ## 📬 Let’s Connect
-
-- [Blog Posts](posts/)  
-- [Assets](assets/)  
+  
 - [LinkedIn](https://www.linkedin.com/in/francisngari77/)  
 - [GitHub](https://github.com/Francis-Ngethe-Ngari)  
-- Email: IT-Support@francisngethe.co.ke
+- [Email] (IT-Support@francisngethe.co.ke)
 
 ---
 

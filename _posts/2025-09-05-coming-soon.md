@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Coming Soon — ChatOps Meets ERP & POS: Automating Support in Business-Critical Systems"
+date: 2025-09-05
+---
+
 # 🧾 Coming Soon — ChatOps Meets ERP & POS: Automating Support in Business-Critical Systems
 
 ERP and POS systems are the backbone of business operations — from procurement to payments, inventory to insights. But supporting them often means navigating complex workflows, scattered documentation, and high-stakes incidents.
