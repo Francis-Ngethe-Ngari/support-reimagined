@@ -1,0 +1,6 @@
+title: Support Reimagined
+description: ChatOps-powered blog by Ngari Francis
+baseurl: "" # Leave empty for root
+url: "https://blog.francisngethe.co.ke" # Your custom domain
+theme: minima
+markdown: kramdown
