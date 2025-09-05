@@ -1,3 +1,9 @@
+---
+layout: post
+title: "ChatOps for RCA — Automating Incident Narratives"
+date: 2025-09-05
+---
+
 # 🧠 ChatOps for RCA — Automating Incident Narratives with PowerShell + AI
 
 In traditional IT Support, RCA (Root Cause Analysis) often feels like a postmortem chore — slow, manual, and disconnected from the actual incident flow. But what if RCA could be conversational, automated, and stakeholder-friendly?
